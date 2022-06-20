@@ -1,0 +1,20 @@
+.main {
+    background-color: blue;
+}
+
+.container {
+    background-color: white;
+    margin: 5%;
+    padding: 1%;
+    border-radius: 10px;
+}
+
+.add {
+    margin-bottom: 50px;
+}
+
+.card-body {
+    margin-bottom: 10px;
+    background-color: aqua;
+    border-radius: 20px;
+}

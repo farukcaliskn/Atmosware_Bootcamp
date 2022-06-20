@@ -1,0 +1,17 @@
+.main {
+    background-color: rgba(169, 0, 65, 0.611);
+    margin: 2%;
+    padding: 5%;
+}
+
+.form {
+    background-color: blue;
+    margin: 2%;
+    padding: 5%;
+    color: white;
+}
+
+.form-group {
+    margin: 1%;
+    text-align: justify;
+}
