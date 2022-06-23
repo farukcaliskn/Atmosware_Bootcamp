@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Odev3 {
+public class _3_Faktoriyel {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("Bir sayi giriniz : ");

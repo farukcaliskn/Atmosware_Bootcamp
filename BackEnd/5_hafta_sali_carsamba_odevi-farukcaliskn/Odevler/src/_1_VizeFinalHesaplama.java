@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Odev1 {
+public class _1_VizeFinalHesaplama {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("Vize notunuzu giriniz : ");

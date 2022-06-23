@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Odev2 {
+public class _2_AsalSayi {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
