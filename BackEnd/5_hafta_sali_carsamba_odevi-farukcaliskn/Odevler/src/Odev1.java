@@ -7,13 +7,12 @@ public class Odev1 {
 		double vizeNot = scanner.nextDouble();
 		System.out.print("Final notunuzu giriniz : ");
 		double finalNot = scanner.nextDouble();
-		int ortalama = (int) ((vizeNot + finalNot) / 2);
-		System.out.println(ortalama);
+		int ortalama = (int) ((vizeNot * 0.4) + (finalNot * 0.6));
 		if (ortalama < 50) {
 			System.out.println("Bu Dersten Kaldınız");
 		} else if (ortalama == 50) {
 			System.out.println("Bu Dersten Geçtiniz");
-		} else if (55 <= ortalama && ortalama <= 70) {
+		} else if (51 <= ortalama && ortalama <= 70) {
 			System.out.println("Bu Dersten BB İle Geçtiniz");
 		} else if (70 <= ortalama && ortalama <= 84) {
 			System.out.println("Bu Dersten BA İle Geçtiniz");
